@@ -1,6 +1,6 @@
-### Pti - Java 
+## Pti - Java 
 
-## Análise e Desenvolvimento de Sistemas
+### Análise e Desenvolvimento de Sistemas
 
 - Cria vetor por entrada no teclado
 - Verifica se o Vetor está ordenado
